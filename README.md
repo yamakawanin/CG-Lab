@@ -3,8 +3,12 @@
 
 ## 作业目录
 
-* [![实验一](https://img.shields.io/badge/实验一-橙红色-orange?style=flat-square)](./src/Work0/README.md) 万有引力粒子群仿真
+## 实验进度表
 
+| 实验阶段 | 实验名称 | 源码文档链接 |
+| :--- | :--- | :--- |
+| **实验一** | 万有引力粒子群仿真 | [`./src/Work0/README.md`](./src/Work0/README.md) |
+| **实验二** | 待开发项目 | `即将开启...` |
 
 ## 环境配置
 
