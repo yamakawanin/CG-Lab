@@ -1,10 +1,9 @@
-# 计算机图形学实验 (CG-Lab)
-
+# 26春北师大计算机图形学实验 (CG-Lab)
 本仓库用于存放计算机图形学实验与大作业的代码。所有代码均存放在 `src/` 目录下。
 
 ## 作业目录
 
-* 实验一[Work0: 粒子群交互模拟系统](./src/Work0/README.md)
+* [![实验一](https://img.shields.io/badge/实验一-橙红色-orange?style=flat-square)](./src/Work0/README.md) 万有引力粒子群仿真
 
 
 ## 环境配置
