@@ -10,7 +10,6 @@ def run(cmd):
 
 def sync():
     # 1. 更新表格
-    # 💡 已经将这里的 updata 改为了 update
     table_script = "update_table.py"
     
     if os.path.exists(table_script):
