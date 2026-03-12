@@ -4,8 +4,8 @@
 
 ## 作业目录
 
-* [Work0: 粒子群交互模拟系统](./src/Work0/README.md)
-* Work1: (待发布)
+* 实验一[Work0: 粒子群交互模拟系统](./src/Work0/README.md)
+
 
 ## 环境配置
 
